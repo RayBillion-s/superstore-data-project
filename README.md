@@ -12,6 +12,9 @@ To design and implement a dynamic, interactive dashboard that provides clear and
 3. Customer Segments: Evaluating the performance of Consumer, Corporate, and Home Office segments.
 4. Product Categories: Breaking down sales trends for product categories to identify growth opportunities and optimize inventory.
 
+**Superstore Dashboard Overview**
+![Dashboard 1](https://github.com/user-attachments/assets/30083dbf-dd00-40a3-bb92-4d411a2a8404)
+
 **Solution Overview**
 The dashboard presented addresses the problem by consolidating key metrics into an intuitive visual interface. Key features include:
 
