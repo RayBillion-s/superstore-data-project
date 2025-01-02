@@ -1,6 +1,8 @@
 # superstore-data-project
 A dynamic dashboard was created to analyze Superstore's sales, profit, and product performance across regions, states, and customer segments. It highlights key insights, such as the West region's profitability and top-performing categories like Chairs and Phones, enabling data-driven decisions to optimize growth and resource allocation.
 
+**Dashboard Link**: https://public.tableau.com/views/personalproject-Tablaeu/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 **Problem Statement**
 Superstore faces challenges in effectively analyzing and communicating key metrics related to sales, profits, and product quantities across regions, states, and segments. Without actionable insights, resource allocation and strategy development become difficult, leading to potential missed opportunities for growth and profitability.
 
@@ -41,3 +43,7 @@ The visualization ensures that decision-makers can:
 2. Allocate resources effectively by focusing on high-potential areas.
 3. Optimize inventory and marketing strategies for high- and low-demand products.
 4. Align strategic goals with data-driven insights for improved profitability.
+
+**Tools Used**
+1. Excel
+2. Tableau
